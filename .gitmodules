@@ -7,3 +7,7 @@
 #
 # Copyright 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+[submodule "GitHub public organization profile"]
+	path = .github.organization
+	url = https://github.com/bash-101/.github.git
+	ignore = dirty
