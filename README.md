@@ -6,7 +6,8 @@ Learning Bash via code samples and small projects!
 
 ## Reference
 
-To be addressed.
+* [GNU Bash manual - GNU Project - Free Software Foundation](https://www.gnu.org/software/bash/manual/)
+* [BashFAQ - Greg's Wiki](https://mywiki.wooledge.org/BashFAQ)
 
 ## Licensing
 
